@@ -1,4 +1,4 @@
-# CRUD API project with CodeIgniter 4 and JWT Project
+# CRUD API project with CodeIgniter 4 and JWT
 
 ## What's in it ?
 Simple things that you can use:
