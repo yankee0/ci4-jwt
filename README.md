@@ -1,9 +1,9 @@
-# CRUD API project with CodeIgniter 4 and JWT
+# AUTH API project with CodeIgniter 4 and JWT
 
 ## What's in it ?
 Simple things that you can use:
 - auth api
-- CRUD users
+- register users
 
 ## Requirements ?
 Just a couple of thing:
